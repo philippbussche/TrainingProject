@@ -2,3 +2,6 @@
 *.jar
 .settings
 build/**
+.classpath
+.DS_Store
+.project
